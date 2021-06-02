@@ -14,7 +14,7 @@ npm start
 
 Ya con esto el backend debe estar corriendo
 ```
-http://localhost:28458
+http://localhost:28458/person
 ```
 
 y el frontend
